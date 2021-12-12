@@ -68,13 +68,13 @@
 
 
 
-        <dependency>
-            <groupId>idv.rennnhong</groupId>
-            <artifactId>newebpay4j</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/newebpay4j-1.0-SNAPSHOT.jar</systemPath>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>idv.rennnhong</groupId>-->
+<!--            <artifactId>newebpay4j</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--            <scope>system</scope>-->
+<!--            <systemPath>${project.basedir}/lib/newebpay4j-1.0-SNAPSHOT.jar</systemPath>-->
+<!--        </dependency>-->
 
     </dependencies>
 
